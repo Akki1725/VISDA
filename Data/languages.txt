@@ -1,0 +1,21 @@
+{
+    "python" : "py",
+    "java " : "java",
+    "html" : "html",
+    "css " : "css",
+    "javascript " : "js",
+    "c " : "c",
+    "c++ " : "cpp",
+    "c# " : "csharp",
+    "f# " : "fsharp",
+    "bat " : "bat",
+    "arduino " : "ino",
+    "bat " : "bat",
+    "cmake " : "cmake",
+    "c make " : "cmake",
+    "go " : "go",
+    "dart " : "dart",
+    "clojure " : "clojure",
+    "ruby " : "ru",
+    "json " : "json"
+}

@@ -1,0 +1,564 @@
+{
+    "intents":
+    [
+        {
+            "tag": "whatsapp",
+
+            "patterns":
+            [
+                " launch whatsapp", "open whatsapp"
+            ],
+
+            "responses":
+            [
+                "whatsapp"
+            ]
+        },
+
+        {
+            "tag": "facebook",
+
+            "patterns":
+            [
+                "open facebook", "visit facebook", "launch facebook"
+            ],
+
+            "responses":
+            [
+                "facebook"
+            ]
+        },
+
+        {
+            "tag": "instagram",
+
+            "patterns":
+            [
+                "open instagram", "launch instagram", "visit instagram"
+            ],
+
+            "responses":
+            [
+                "instagram"
+            ]
+        },
+        
+        {
+            "tag": "twitter",
+
+            "patterns":
+            [
+                "twitter", "open twitter", "visit twitter", "launch twitter", "show tweets", "tweets"
+            ],
+
+            "responses":
+            [
+                "twitter"
+            ]
+        },
+        
+        {
+            "tag": "gmail",
+
+            "patterns":
+            [
+                "open gmail", "visit gmail", "launch gmail", "show my emails", "show my gmails","show my mails"
+            ],
+
+            "responses":
+            [
+                "gmail"
+            ]
+        },
+        
+        {
+            "tag": "google",
+
+            "patterns":
+            [
+                "open google", "visit google", "launch google", "search google"
+            ],
+
+            "responses":
+            [
+                "google"
+            ]
+        },
+        
+        {
+            "tag": "google maps",
+
+            "patterns":
+            [
+                "open google maps"
+            ],
+
+            "responses":
+            [
+                "google maps"
+            ]
+        },
+        
+        {
+            "tag": "google drive",
+
+            "patterns":
+            [
+                "open google drive", "visit google drive", "launch google drive", "open cloud"
+            ],
+
+            "responses":
+            [
+                "google drive"
+            ]
+        },
+        
+        {
+            "tag": "google photos",
+
+            "patterns":
+            [
+                "open google photos", "visit google photos", "launch google photos", "show photos in google"
+            ],
+
+            "responses":
+            [
+                "google photos"
+            ]
+        },
+        
+        {
+            "tag": "google play",
+
+            "patterns":
+            [
+                "open google play", "visit google play", "launch google play", "download in google play"
+            ],
+
+            "responses":
+            [
+                "google play"
+            ]
+        },
+        
+        {
+            "tag": "google translate",
+
+            "patterns":
+            [
+                "open google translate", "visit google translate", "launch google translate"
+            ],
+
+            "responses":
+            [
+                "google translate"
+            ]
+        },
+        
+        {
+            "tag": "google keep",
+
+            "patterns":
+            [
+                "open google keep", "visit google keep", "launch google keep", "show google keep"
+            ],
+
+            "responses":
+            [
+                "google keep"
+            ]
+        },
+        
+        {
+            "tag": "google duo",
+
+            "patterns":
+            [
+                "open google duo", "visit google duo", "launch google duo", "video call in duo"
+            ],
+
+            "responses":
+            [
+                "google duo"
+            ]
+        },
+        
+        {
+            "tag": "google chrome",
+
+            "patterns":
+            [
+                "open google chrome", "launch google chrome"
+            ],
+
+            "responses":
+            [
+                "google chrome"
+            ]
+        },
+
+        {
+            "tag": "stackoverflow",
+
+            "patterns":
+            [
+                "open stackoverflow", "visit stackoverflow", "launch stackoverflow"
+            ],
+
+            "responses":
+            [
+                "stackoverflow"
+            ]
+        },
+        
+        {
+            "tag": "github",
+
+            "patterns":
+            [
+                "open github", "visit github", "launch github"
+            ],
+
+            "responses":
+            [
+                "github"
+            ]
+        },
+        
+        {
+            "tag": "quora",
+
+            "patterns":
+            [
+                "open quora", "visit quora"
+            ],
+
+            "responses":
+            [
+                "quora"
+            ]
+        },
+        
+        {
+            "tag": "medium",
+
+            "patterns":
+            [
+                "open medium", "visit medium", "launch medium"
+            ],
+
+            "responses":
+            [
+                "medium"
+            ]
+        },
+        
+        {
+            "tag": "reddit",
+
+            "patterns":
+            [
+                "open reddit", "launch reddit"
+            ],
+
+            "responses":
+            [
+                "reddit"
+            ]
+        },
+        
+        {
+            "tag": "pinterest",
+
+            "patterns":
+            [
+                "open pinterest", "visit pinterest", "launch pinterest"
+            ],
+
+            "responses":
+            [
+                "pinterest"
+            ]
+        },
+        
+        {
+            "tag": "flipkart",
+
+            "patterns":
+            [
+                "open flipkart", "visit flipkart", "go to flipkart", "shop flipkart"
+            ],
+
+            "responses":
+            [
+                "flipkart"
+            ]
+        },
+        
+        {
+            "tag": "amazon",
+
+            "patterns":
+            [
+                "open amazon", "visit amazon", "go to amazon", "shop amazon"
+            ],
+
+            "responses":
+            [
+                "amazon"
+            ]
+        },
+        
+        {
+            "tag": "snapdeal",
+
+            "patterns":
+            [
+                "open snapdeal", "visit snapdeal", "launch snapdeal"
+            ],
+
+            "responses":
+            [
+                "snapdeal"
+            ]
+        },
+        
+        {
+            "tag": "myntra",
+
+            "patterns":
+            [
+                "open myntra", "visit myntra", "launch myntra", "shop clothes"
+            ],
+
+            "responses":
+            [
+                "myntra"
+            ]
+        },
+
+        {
+            "tag": "paytm",
+
+            "patterns":
+            [
+                "open paytm", "visit paytm", "launch paytm"
+            ],
+
+            "responses":
+            [
+                "paytm"
+            ]
+        },
+        
+        {
+            "tag": "ola",
+
+            "patterns":
+            [
+                "open ola", "visit ola", "launch ola", "book cab", "book ola"
+            ],
+
+            "responses":
+            [
+                "ola"
+            ]
+        },
+        
+        {
+            "tag": "phonepe",
+
+            "patterns":
+            [
+                "open phonepe", "visit phonepe", "launch phonepe"
+            ],
+
+            "responses":
+            [
+                "phonepe"
+            ]
+        },
+        
+        {
+            "tag": "freecharge",
+
+            "patterns":
+            [
+                "open freecharge", "visit freecharge", "launch freecharge"
+            ],
+
+            "responses":
+            [
+                "freecharge"
+            ]
+        },
+        
+        {
+            "tag": "uber",
+
+            "patterns":
+            [
+                "open uber", "visit uber", "launch uber", "book uber", "uber cabs"
+            ],
+
+            "responses":
+            [
+                "uber"
+            ]
+        },
+        
+        {
+            "tag": "olx",
+
+            "patterns":
+            [
+                "open olx", "visit olx", "launch olx"
+            ],
+
+            "responses":
+            [
+                "olx"
+            ]
+        },
+        
+        {
+            "tag": "quikr",
+
+            "patterns":
+            [
+                "open quikr", "visit quikr", "launch quikr"
+            ],
+
+            "responses":
+            [
+                "quikr"
+            ]
+        },
+        
+        {
+            "tag": "swiggy",
+
+            "patterns":
+            [
+                "open swiggy", "visit swiggy", "launch swiggy", "book food from swiggy"
+            ],
+
+            "responses":
+            [
+                "swiggy"
+            ]
+        },
+        
+        {
+            "tag": "zomato",
+
+            "patterns":
+            [
+                "open zomato", "visit zomato", "launch zomato", "book food"
+            ],
+
+            "responses":
+            [
+                "zomato"
+            ]
+        },
+        
+        {
+            "tag": "foodpanda",
+
+            "patterns":
+            [
+                "open foodpanda", "visit foodpanda", "launch foodpanda"
+            ],
+
+            "responses":
+            [
+                "foodpanda"
+            ]
+        },
+        
+        {
+            "tag": "time",
+
+            "patterns":
+            [
+                "current time", "what is the time", "tell me the time", "what time is it now"
+            ],
+
+            "responses":
+            [
+                "It is currently", "The time is", "It is"
+            ]
+        },
+
+        {
+            "tag": "sleep",
+
+            "patterns":
+            [
+                "go to sleep", "leave me alone", "sleep", "take rest", "go to rest", "relax for sometime"
+            ],
+
+            "responses":
+            [
+                "sleep"
+            ]
+        },
+
+        {
+            "tag": "exit",
+
+            "patterns":
+            [
+                "exit", "shut off", "shut down", "turn off", "bye bye", "goodbye"
+            ],
+
+            "responses":
+            [
+                "exit"
+            ]
+        },
+        
+        {
+            "tag": "wikipedia",
+
+            "patterns":
+            [
+                "wikipedia", "wiki"
+            ],
+
+            "responses":
+            [
+                "wikipedia"
+            ]
+        },
+
+        {
+            "tag": "email",
+
+            "patterns":
+            [
+                "email", "send email to", "send mail to", "send gmail to", "send gmail", "i want to send an email", "i want to send a mail", "i want you to send a mail", "i want to send a gmail", "i want you to send an email", "i want you to send a gmail"
+            ],
+
+            "responses":
+            [
+                "email"
+            ]
+        },
+
+        {
+            "tag": "image",
+
+            "patterns":
+            [
+                "make an image", "create an image", "an image", "render an image", "i want you to create an image", "i want to create an image"
+            ],
+
+            "responses":
+            [
+                "image"
+            ]
+        }
+    ]
+}
